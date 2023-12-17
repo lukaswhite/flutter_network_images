@@ -21,8 +21,7 @@ class _AppState extends State<App> {
         const Padding(
           padding: EdgeInsets.symmetric(vertical: 50, horizontal: 10),
           child: FancyImage(
-            url: 'https://unsplash.com/photos/e75CfMG0Sgo/download?ixid=M3wxMjA3fDF8MXxhbGx8MzZ8fHx8fHwyfHwxNzAyNzIwNjk2fA&force=true&w=2400', 
-            // neom-e75CfMG0Sgo-unsplash
+            url: 'https://raw.githubusercontent.com/lukaswhite/flutter_network_images/main/docs/neom-e75CfMG0Sgo-unsplash.jpg',             
             aspectRatio: 1.5, 
             blurhash: 'LoH2QH%1IAi__4s9i^j[O[Rjs.js'
           ),
